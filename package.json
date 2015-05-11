@@ -1,0 +1,16 @@
+{
+  "name": "node-booklet-code",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.3",
+    "instagram-node": "^0.5.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "devDependencies": {},
+  "author": "Sagar",
+  "license": "ISC"
+}
